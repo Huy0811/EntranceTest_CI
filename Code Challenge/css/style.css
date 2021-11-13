@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#randomColor,
+#randomColorGradient {
+  border-radius: 5px;
+  outline: none;
+  border: none;
+}
+
+#hex,
+#angle,
+#colorOne,
+#colorTwo {
+  margin: 0 10px;
+}
